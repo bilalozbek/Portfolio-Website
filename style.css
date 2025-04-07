@@ -1,0 +1,16 @@
+body {
+    font-family: Tahoma, sans-serif;
+    background-color: #fff;
+    color: #333;
+}
+header {
+    background-color: #4caf50;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+footer {
+    background-color: #ddd;
+    text-align: center;
+    padding: 10px;
+}
